@@ -1,0 +1,14 @@
+/*Figure Component*/
+
+.figure {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.figure__img {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
