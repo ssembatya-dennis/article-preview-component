@@ -41,6 +41,12 @@
   color: #9daec2;
 }
 
+@media screen and (max-width: 425px) {
+  .card__title {
+    font-size: 1.6rem;
+  }
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
